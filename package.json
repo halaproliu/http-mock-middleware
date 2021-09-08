@@ -1,5 +1,5 @@
 {
-  "name": "http-mock-middleware",
+  "name": "webpack-api-mock",
   "version": "1.0.0",
   "description": "a webpack mock middleware",
   "main": "index.js",
