@@ -3,12 +3,12 @@
 ### 快速开始
 
 ```js
-npm i webpack-api-mock -S
+npm i webpack-api-mock -D
 ```
 or
 
 ```js
-yarn add webpack-api-mock
+yarn add webpack-api-mock -D
 ```
 
 ```js
